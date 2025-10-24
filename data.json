@@ -1,0 +1,28 @@
+{
+    "chart_title": "Practice Hours vs. Performance Score (1-10)",
+    "data_points": [
+        {
+            "label": "1",
+            "value": 3
+        },
+        {
+            "label": "2",
+            "value": 6
+        },
+        {
+            "label": "3",
+            "value": 8
+        },
+	{ 
+	   "label": "4",
+           "value": 9
+	},
+
+	{
+	    "label": "5",
+            "value": 10
+
+	}
+
+    ]
+}
